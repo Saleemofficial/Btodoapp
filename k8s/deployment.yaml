@@ -17,11 +17,11 @@ spec:
     spec:
       containers:
       - name: todo-app
-        image: saleem030896/btodoapp
+        image: saleem030896/btodoapp:latest
         ports:
         - containerPort: 5008
 
-        
+
       
 
 
